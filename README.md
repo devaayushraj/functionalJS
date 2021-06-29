@@ -4,42 +4,42 @@
 This is the repo for all funcitonal programmming related to JavaScript.
 
 
-#What is an app?
+# What is an app?
 Most app are list of data presented in meaningfull way
 
-To be good at building an app you must be good at three things:
+# To be good at building an app you must be good at three things:
 
-DATA
-List of DATA
-DATA Transformations
+## DATA
+## List of DATA
+## DATA Transformations
 
-Pareto Principle : 20% of work result in 80% of result.
+# Pareto Principle : 20% of work result in 80% of result.
 
-_You need to know 20% of JavaScript to code 80% of any app._
+* _You need to know 20% of JavaScript to code 80% of any app._ *
 
-#What are those 20% of JavaScript?
+# What are those 20% of JavaScript?
 
-##Primitive Types
-String
-Number
-Boolean
-Undefined // Usually you don't choose it.
-null
-Arrays - A collection of anything
+## Primitive Types
+## String
+## Number
+## Boolean
+## Undefined // Usually you don't choose it.
+## null
+## Arrays - A collection of anything
 
-##Object Literals
+# Object Literals
 
-Record is a better description of word object literals
+Record is a better description of word object literals.
 
-const meal = {
+`const meal = {
 description: 'Breakfast'
 calories: 180
 date: new Date(2021,0,1)
-}
+}`
 
 # Array []
 
-const meal = [
+`const meal = [
   {
     description: "Breakfast",
     calories: 100,
@@ -48,23 +48,23 @@ const meal = [
     description: "Lunch",
     calories: 200,
   },
-];
+];`
 
 
 #functions
 
 allows you to reuse code and transform values
 
-function(){}
+`function(){}`
 
-#Conditional
+# Conditional
 
-if{} else{}
+`if{} else{}`
 
-? :
+`? :`
 
 
-#Immutable data
+# Immutable data
 
 Data that never changes
 
